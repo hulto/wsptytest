@@ -8,7 +8,7 @@ import (
 	"syscall"
 
 	"github.com/codegangsta/cli"
-	"github.com/yudai/gotty/backend/localcommand"
+	"github.com/hulto/wsptytest/backend/localcommand"
 	"github.com/yudai/gotty/server"
 	"github.com/yudai/gotty/utils"
 )
